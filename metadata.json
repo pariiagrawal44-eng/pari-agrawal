@@ -1,0 +1,8 @@
+{
+  "name": "RepoCraft - GitHub Project Structure & Anatomy Guide",
+  "description": "An interactive, visual guide to GitHub repository structure, essential files, branching workflows, and open-source best practices for beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
